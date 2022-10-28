@@ -13,7 +13,7 @@ namespace KmeanPic
     {
         //Image list 
         List<Picture> PictureList = new List<Picture>();
-        string fileName = "../../Resources/FeatureVectors.txt";
+        string fileName = "C://Users//Admin-s//OneDrive//Máy tính//Study//Khóa luận//KmeanPic//KmeanPic//Resources//FeatureVectors.txt";
 
         public Form1()
         {
